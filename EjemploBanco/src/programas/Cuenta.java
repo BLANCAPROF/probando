@@ -1,7 +1,7 @@
 package programas;
 
 public class Cuenta {
-	
+	//Estoy metiendo un comentario en la ramalocal2 para ver que pasa
 							//defino dos variables para alojar el número de cuenta y el saldo
 	private String número; //número de la cuenta bancaria
 	private float saldo; // saldo de la cuenta bancaria en euros
